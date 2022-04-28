@@ -1,0 +1,16 @@
+{
+    "name": "qi/giovanegabriel",
+    "description": "web 2 php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Qi\\Giovanegabriel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabriel e giovane"
+        }
+    ],
+    "require": {}
+}
